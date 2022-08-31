@@ -1,2 +1,7 @@
-# ruffed_grouse_manuscript_2022
-Scripts, annotated audio data, and point count data associated with WSB 2022 manuscript 
+## Python Notebook demonstrating analysis and validation of ruffed grouse automated detection in OpenSoundscape
+
+This repository contains a notebook demonstrating how to use the python packge [OpenSoundscape](opensoundscape.org) to detect ruffed grouse (Bonasa umbellus) in audio recordings. It is associated with an article in review in the Wildlife Society Bulletin (Lapp et al 2022). The Jupyter notebook reproduces the evaluation of the recognition method on a validation set. It could also be used to analyze new audio data with minor adaptations. 
+
+The audio data and annotations used in the notebook are available on Dryad and OneDrive. However, this notebook can also be run without downloading the data by using the labels and pre-computed outputs of the model, which are included in this repository. 
+
+A description of the automated recognition method can be found in the manuscript. 
