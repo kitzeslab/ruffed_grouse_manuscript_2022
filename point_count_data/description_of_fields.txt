@@ -1,0 +1,26 @@
+The file 'ruffed_grouse_point_counts' contains records of ruffed grouse (Bonasa umbellus) detections during avian point count surveys in Pennsylvania in 2020 [1]. See Parker et al 2020 [1] for a description of the study site, study design, and point count protocol. 
+
+In this table, each observed individual is recorded as a separate column. Surveys without any detections do not contain any rows. 
+
+Description of the columns:
+Site: name of general location
+Fenced.Unfenced: treatment type of location; fenced means the point was located within a deer exclosure.
+SGL: PA State Game Lands number
+visit: numerical index of visits to a single point 
+observer: Initials of person conducting point count
+month, Day, Year: Date of the survey
+cloud: cloud cover, percent
+Wind: 0-5 scale. 0-smoke vertical, 1=smoke drift, 2=wind on face, 3=twig content motion, 4= small branches move,5=trees sway
+precip: Precipitation, one of: none/fog/mist/light rain/heavy rain/snow
+start.time: start time of 10 minute point count survey in Eastern Daylight Time
+species: alpha code of observed individual. 
+distance bin (1-5): estimated distance to bird. 1:0-25 m, 2: 25-50m, 3: 50-75m, 4: 75-100m, 5: >100m
+notes: any additional notes by the point counter (blank/NaN means no notes were written)
+
+[1] Parker, H. A., J. T. Larkin, D. Heggenstaller, J. Duchamp, M. C. Tyree, C. S. Rushing, E. Just Domoto, and J. L. Larkin. 2020. Evaluating the impacts of white-tailed deer (Odocoileus virginianus) browsing on vegetation in fenced and unfenced timber harvests. Forest Ecology and Management 473:118326.
+
+
+
+
+
+

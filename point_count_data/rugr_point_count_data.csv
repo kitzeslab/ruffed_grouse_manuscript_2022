@@ -1,0 +1,12 @@
+Site,Fenced.Unfenced,SGL,point.id,visit,observer,month,day,year,cloud,wind,precip,start.time,species,distance bin (1-5),notes
+Hawk Run,Fenced,33,SGL33_3,6,JTL,5.0,16.0,2020.0,75.0,0.0,none,6:59,RUGR,5.0,
+Hawk Run,Fenced,33,SGL33_5,6,JTL,5.0,16.0,2020.0,75.0,0.0,none,6:36,RUGR,5.0,
+Hawk Run,Fenced,33,SGL33_7,6,JTL,5.0,16.0,2020.0,50.0,0.0,none,8:45,RUGR,4.0,
+Hawk Run,Unfenced,33,SGL33_13,6,HAP,5.0,16.0,2020.0,90.0,0.0,none,7:49,RUGR,2.0,drum
+Crow's Nest,Unfenced,33,SGL33_26,6,JLL,5.0,16.0,2020.0,20.0,0.0,none,7:04,RUGR,4.0,
+Crow's Nest,Fenced,33,SGL33_27,6,JLL,5.0,16.0,2020.0,25.0,0.0,none,6:27,RUGR,3.0,
+Firetower N,Unfenced,60,SGL60_18,6,HAP,5.0,15.0,2020.0,50.0,1.0,none,6:05,RUGR,2.0,
+Firetower N,Unfenced,60,SGL60_19,6,HAP,5.0,15.0,2020.0,95.0,2.0,none,6:23,RUGR,2.0,
+Firetower N,Fenced,60,SGL60_20,6,JTL,5.0,15.0,2020.0,100.0,1.0,none,6:13,RUGR,5.0,
+Aikley Hollow,Unfenced,100,SGL100_8,6,JTL,5.0,17.0,2020.0,100.0,2.0,none,7:16,RUGR,5.0,
+Crow's Nest,Fenced,33,SGL33_27,7,JLL,6.0,7.0,2020.0,0.0,1.0,none,7:56,RUGR,4.0,
